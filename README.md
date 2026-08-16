@@ -27,8 +27,8 @@ This mini project helped me to practice and execute the following:
 
 # How to run the programme
 
-Run using: 'python3 calculator.py'
-Then follow the prompts provided.
+1. Run using: 'python3 calculator.py
+2. Then, follow the prompts provided
 
 # Conclusion
 
